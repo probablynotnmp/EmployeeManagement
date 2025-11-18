@@ -1,27 +1,67 @@
-# CrudApp
+# TeamFlow - Employee Management System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+A premium, responsive Employee Management application built with React and Vite. This project demonstrates modern frontend development practices, including component-based architecture, state management, and responsive design.
 
-## Development server
+![Project Preview](https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=2070&auto=format&fit=crop)
+*(Note: Replace this with an actual screenshot of your app)*
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Features
 
-## Code scaffolding
+- **✨ Modern UI/UX**: Clean, minimalist design with smooth transitions and glassmorphism effects.
+- **📱 Fully Responsive**: Seamless experience across desktop, tablet, and mobile devices.
+- **👥 CRUD Operations**: Complete management of employee records (Create, Read, Update, Delete).
+- **💾 Local Persistence**: Data is saved to the browser's LocalStorage, so you don't lose your work on refresh.
+- **🔍 Real-time Updates**: Immediate UI feedback for all actions.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Tech Stack
 
-## Build
+- **Frontend Framework**: [React 18](https://reactjs.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: Vanilla CSS with CSS Variables (Theming)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Utilities**: [UUID](https://github.com/uuidjs/uuid) for unique identifiers
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🏃‍♂️ Getting Started
 
-## Running unit tests
+Follow these steps to run the project locally:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/yourusername/employee-management.git
+    cd employee-management
+    ```
 
-## Running end-to-end tests
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3.  **Start the development server**
+    ```bash
+    npm run dev
+    ```
 
-## Further help
+4.  **Open in browser**
+    Navigate to `http://localhost:5173` to view the app.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📁 Project Structure
+
+```
+src/
+├── components/         # Reusable UI components
+│   ├── EmployeeForm.jsx
+│   ├── EmployeeList.jsx
+│   ├── Header.jsx
+│   └── Modal.jsx
+├── App.jsx            # Main application logic
+├── index.css          # Global styles and theme variables
+└── main.jsx           # Entry point
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
