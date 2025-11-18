@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/employee-management.git
+    git clone https://github.com/probablynotnmp/employee-management.git
     cd employee-management
     ```
 
