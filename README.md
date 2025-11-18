@@ -2,8 +2,9 @@
 
 A premium, responsive Employee Management application built with React and Vite. This project demonstrates modern frontend development practices, including component-based architecture, state management, and responsive design.
 
-![Project Preview](https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=2070&auto=format&fit=crop)
-*(Note: Replace this with an actual screenshot of your app)*
+![Project Preview](<img width="1440" height="900" alt="Screenshot 2025-11-19 at 12 51 26 AM" src="https://github.com/user-attachments/assets/b3a3c92f-e8d8-4390-aa9b-c79b76dd2970" />)
+)
+
 
 ## 🚀 Features
 
