@@ -3,7 +3,6 @@
 A premium, responsive Employee Management application built with React and Vite. This project demonstrates modern frontend development practices, including component-based architecture, state management, and responsive design.
 
 ![Project Preview](https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=2070&auto=format&fit=crop)
-*(Note: Replace this with an actual screenshot of your app)*
 
 ## 🚀 Features
 
@@ -27,7 +26,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/employee-management.git
+    git clone https://github.com/probablynotnmp/employee-management.git
     cd employee-management
     ```
 
