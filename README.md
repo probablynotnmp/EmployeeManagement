@@ -2,7 +2,7 @@
 
 A premium, responsive Employee Management application built with React and Vite. This project demonstrates modern frontend development practices, including component-based architecture, state management, and responsive design.
 
-![TeamFlow](src/assets/TeamFlow.png)
+![Employee Management App](src/assets/TeamFlow.png)
 
 ## 🚀 Features
 
